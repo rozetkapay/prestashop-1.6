@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+        <module>
+            <name>rozetkapay</name>
+            <displayName><![CDATA[Платежі RozetkaPay]]></displayName>
+            <version><![CDATA[0.1]]></version>
+            <description><![CDATA[Оплата через RozetkaPay]]></description>
+            <author><![CDATA[RozetkaPay]]></author>
+            <tab><![CDATA[payments_gateways]]></tab>
+	        <confirmUninstall>Чи дійсно хочете видалити модуль?</confirmUninstall>
+            <is_configurable>1</is_configurable>
+            <need_instance>1</need_instance>
+	        <limited_countries></limited_countries>
+        </module>
